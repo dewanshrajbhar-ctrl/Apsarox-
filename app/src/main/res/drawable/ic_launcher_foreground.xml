@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:translateX="10.8"
+        android:translateY="10.8">
+        <!-- Rounded Card Base in Jet Black Elevated -->
+        <path
+            android:fillColor="#14141E"
+            android:pathData="M24,20 h60 a10,10 0 0 1 10,10 v48 a10,10 0 0 1 -10,10 h-60 a10,10 0 0 1 -10,-10 v-48 a10,10 0 0 1 10,-10 z" />
+        <!-- Top bar of window in Royal Amethyst -->
+        <path
+            android:fillColor="#7C3AED"
+            android:pathData="M24,20 h60 a10,10 0 0 1 10,10 v6 h-80 v-6 a10,10 0 0 1 10,-10 z" />
+        <!-- Window control dots in Electric Cyan -->
+        <path
+            android:fillColor="#00F0FF"
+            android:pathData="M22,28 a2,2 0 1 0 0.01,0" />
+        <path
+            android:fillColor="#A78BFA"
+            android:pathData="M28,28 a2,2 0 1 0 0.01,0" />
+        <path
+            android:fillColor="#C4B5FD"
+            android:pathData="M34,28 a2,2 0 1 0 0.01,0" />
+        <!-- HTML Code Tag: < / > in Electric Cyan -->
+        <path
+            android:fillColor="#00F0FF"
+            android:pathData="M38,45 L28,54 L38,63 L35,66 L22,54 L35,42 Z" />
+        <path
+            android:fillColor="#00F0FF"
+            android:pathData="M70,45 L80,54 L70,63 L73,66 L86,54 L73,42 Z" />
+        <!-- Slash in Royal Amethyst Glow -->
+        <path
+            android:fillColor="#C4B5FD"
+            android:pathData="M59,38 L63,39 L49,70 L45,69 Z" />
+        <!-- Attendance Check Badge in Royal Amethyst -->
+        <path
+            android:fillColor="#7C3AED"
+            android:pathData="M72,72 m-11,0 a11,11 0 1 0 22,0 a11,11 0 1 0 -22,0" />
+        <!-- Electric Cyan checkmark -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#00F0FF"
+            android:strokeWidth="2.4"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M67,72 L70.5,75.5 L77,68.5" />
+    </group>
+</vector>

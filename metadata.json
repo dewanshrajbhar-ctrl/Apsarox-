@@ -1,0 +1,6 @@
+{
+  "name": "ApsaRox",
+  "description": "ApsaRox End-to-End Encrypted Attendance & Payroll Management with Hardware Keystore AES-256-GCM, PDF Reports, and Gemini AI Copilot",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
